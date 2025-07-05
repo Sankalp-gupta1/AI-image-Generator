@@ -12,12 +12,14 @@ A user-friendly web interface is provided using **Gradio**, making it super simp
 
 ## 🚀 Demo
 
-> 👉 [Live Colab Link (Gradio UI)](https://YOUR_GRADIO_LINK_HERE)  
+> 👉 [Live Colab Link (Gradio UI)]([https://YOUR_GRADIO_LINK_HERE](https://30d1bd0cb6121e7a90.gradio.live))  
 > Paste prompts like:
 > - _“a panda astronaut sitting on the moon looking at earth”_  
 > - _“two girls sitting in a cozy bedroom, talking and laughing, cinematic lighting”_  
 
-![demo](demo_screenshot.png) <!-- replace with actual demo image path -->
+![demo](![Screenshot (516)](https://github.com/user-attachments/assets/95d6b5f5-4381-446c-baf7-021cf26b79a7)
+) <!-- replace with actual demo image path -->
+
 
 ---
 
