@@ -18,6 +18,8 @@ A user-friendly web interface is provided using **Gradio**, making it super simp
 > - _“two girls sitting in a cozy bedroom, talking and laughing, cinematic lighting”_  
 
 ![demo](![Screenshot (516)](https://github.com/user-attachments/assets/95d6b5f5-4381-446c-baf7-021cf26b79a7)
+![demo](![Screenshot 2025-07-05 152243](https://github.com/user-attachments/assets/935adfc9-bc8e-47d1-91df-a036a275010a)
+)
 ) <!-- replace with actual demo image path -->
 
 
