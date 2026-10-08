@@ -1,5 +1,9 @@
 # GenVision Studio — Generative AI Image Studio
 
+> **Live Demo:** https://sankalp-gupta1.github.io/AI-image-Generator/  
+> **GitHub:** https://github.com/Sankalp-gupta1/AI-image-Generator  
+> **Status:** CI passing · GitHub Pages deployment passing
+
 A practical **text-to-image Generative AI application** built with **Python, PyTorch, Hugging Face Diffusers, Stable Diffusion and Gradio**.
 
 The project is designed as a recruiter-ready demo: a user enters a natural-language prompt, chooses generation controls, and receives reproducible AI-generated images through a clean web interface.
